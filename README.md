@@ -13,7 +13,7 @@ Para usar la calculadora descargue las librerias correspondientes. Una vez desca
 Para ver las funciones utilizadas para las operaciones ingrese en la carpeta de funciones y ahi las podra encontrar.
 ### Prerrequisitos
 Para poder usar las librerias del proyecto se recomienda tener instalado python en su computador, se recomiendo tambien el uso de pycharm u otro idle de python.
-### Built with
+## Built with
 Idle - Python 3.8.1 64-Bit
 Pycharm version 2020.1
 ## Versiones
